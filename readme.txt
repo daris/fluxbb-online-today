@@ -2,10 +2,10 @@
 ##
 ##        Mod title:  Online today
 ##
-##      Mod version:  1.2
-##  Works on FluxBB:  1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.4-rc3
-##     Release date:  2010-08-06
-##      Review date:  YYYY-MM-DD (Leave unedited)
+##      Mod version:  1.2.1
+##  Works on FluxBB:  1.5.0, 1.4.9, 1.4.8, 1.4.7, 1.4.6, 1.4.5, 1.4.4, 1.4.3, 1.4.2, 1.4.1, 1.4.0, 1.4-rc3
+##     Release date:  12-08-03
+##      Review date:  12-08-03
 ##           Author:  Daris (daris91@gmail.com)
 ##   Orginal author:  Vincent Garnier a.k.a. vin100 (vin100@forx.fr)
 ##
